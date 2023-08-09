@@ -1,0 +1,15 @@
+D:\HospitalManagementSystem\product\DataAccese\obj\Debug\net6.0\DataAccese.csproj.AssemblyReference.cache
+D:\HospitalManagementSystem\product\DataAccese\obj\Debug\net6.0\DataAccese.GeneratedMSBuildEditorConfig.editorconfig
+D:\HospitalManagementSystem\product\DataAccese\obj\Debug\net6.0\DataAccese.AssemblyInfoInputs.cache
+D:\HospitalManagementSystem\product\DataAccese\obj\Debug\net6.0\DataAccese.AssemblyInfo.cs
+D:\HospitalManagementSystem\product\DataAccese\obj\Debug\net6.0\DataAccese.csproj.CoreCompileInputs.cache
+D:\HospitalManagementSystem\product\DataAccese\bin\Debug\net6.0\DataAccese.deps.json
+D:\HospitalManagementSystem\product\DataAccese\bin\Debug\net6.0\DataAccese.dll
+D:\HospitalManagementSystem\product\DataAccese\bin\Debug\net6.0\DataAccese.pdb
+D:\HospitalManagementSystem\product\DataAccese\bin\Debug\net6.0\AppModel.dll
+D:\HospitalManagementSystem\product\DataAccese\bin\Debug\net6.0\AppModel.pdb
+D:\HospitalManagementSystem\product\DataAccese\obj\Debug\net6.0\DataAccese.csproj.CopyComplete
+D:\HospitalManagementSystem\product\DataAccese\obj\Debug\net6.0\DataAccese.dll
+D:\HospitalManagementSystem\product\DataAccese\obj\Debug\net6.0\refint\DataAccese.dll
+D:\HospitalManagementSystem\product\DataAccese\obj\Debug\net6.0\DataAccese.pdb
+D:\HospitalManagementSystem\product\DataAccese\obj\Debug\net6.0\ref\DataAccese.dll
